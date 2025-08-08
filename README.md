@@ -33,7 +33,7 @@ All outputs, including plots and misclassified examples, are stored in the **`Da
 
 ## 🚀 Getting Started  
 
-### 1️⃣ Clone the repository  
+### Clone the repository  
 ```bash
 git clone https://github.com/your-username/MNIST-Convolutional-Neural-Network.git
 cd MNIST-Convolutional-Neural-Network
